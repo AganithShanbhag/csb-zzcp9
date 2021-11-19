@@ -1,0 +1,2 @@
+(this["webpackJsonpcalorie-meter"]=this["webpackJsonpcalorie-meter"]||[]).push([[0],{10:function(e,t,c){"use strict";c.r(t);var r=c(1),n=c(3),o=c.n(n),s=(c(8),c(0));function i(){return Object(s.jsxs)("div",{className:"App",children:[Object(s.jsx)("h1",{children:"Calorie Meter"}),Object(s.jsx)("h2",{children:"Start by Choosing the Food \ud83c\udf56"})]})}const h=document.getElementById("root");o.a.render(Object(s.jsx)(r.StrictMode,{children:Object(s.jsx)(i,{})}),h)},8:function(e,t,c){}},[[10,1,2]]]);
+//# sourceMappingURL=main.7225eaae.chunk.js.map
